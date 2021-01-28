@@ -1,1 +1,1 @@
-this is my very first using scripts in shell
+this is my very first time using scripts in shell
